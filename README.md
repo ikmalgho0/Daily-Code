@@ -10,7 +10,7 @@ This repository is a collection of daily exercises and small projects from my jo
 |--------|----------|
 | `c/` | Basic C exercises |
 | `c++/` | Calculator, data structures (Node/BST), and functions |
-| `python/` | Simple calculator and basic Python exercises |
+| `python/` | Simple calculator, Temperature converter, Length converter |
 | `javascript/` | JavaScript exercises |
 | `html/` | HTML exercises |
 | `php/` | PHP exercises |
